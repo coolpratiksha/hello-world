@@ -6,7 +6,7 @@
 <h1 style="background-colour:Dodgerblue;">Dodgerblue</h1>
 <h1 style="background-colour:Grey;">Grey</h1>
 <h1 style="background-colour:SlateBlue;">SlateBlue</h1>
-<h1 style="background-colour:Violet;">Violet</h1>
+<h1 style="bground-colour:Violet;">Violet</h1>
 <h1 style="bg-colour:LightGrey;">LightGrey</h1>
 </body>
 </html>
